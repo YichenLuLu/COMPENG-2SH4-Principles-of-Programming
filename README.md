@@ -1,2 +1,2 @@
 # COMPENG-2SH4-Principles-of-Programming
-Some Projects rellated to C and Java
+Some Projects related to C and Java
